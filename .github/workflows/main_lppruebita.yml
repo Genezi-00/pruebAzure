@@ -50,4 +50,4 @@ jobs:
           app-name: 'lpPruebita'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73A9FD72298641F09CC3A8D18B1059E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A96713459A414F9BBCBB019E3C6CA7E9 }}
